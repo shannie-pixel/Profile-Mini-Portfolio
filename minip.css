@@ -7,19 +7,19 @@ body {
 
 /* Header styling */
 header {
-  background-image: url("Facebook_\ Thiên\ Nhai\ Hải\ Giác\ -\ 天涯海角\ save\ =\ follow\ 💞_.jpg"); background-repeat:no-repeat ;
-  color: rgba(106, 4, 4, 0.899);
+  background-image: url("banner.jpg"); background-repeat:no-repeat ;
+  color: rgba(151, 176, 208, 0.899);
   padding: 60px;
 }
 
 /* Navigation styling */
 nav {
-  background-color: #c67474;
+  background-color: #092749;
   padding: 15px;
 }
 
 nav a {
-  color: rgb(85, 4, 4);
+  color: rgb(127, 152, 182);
   text-decoration: none;
   margin: 0 15px;
 }
