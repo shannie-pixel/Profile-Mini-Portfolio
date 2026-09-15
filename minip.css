@@ -1,0 +1,29 @@
+/* Center everything on the webpage */
+body {
+  text-align: center;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+  background-image: url("Facebook_\ Thiên\ Nhai\ Hải\ Giác\ -\ 天涯海角\ save\ =\ follow\ 💞_.jpg"); background-repeat:no-repeat ;
+  color: rgba(106, 4, 4, 0.899);
+  padding: 60px;
+}
+
+/* Navigation styling */
+nav {
+  background-color: #c67474;
+  padding: 15px;
+}
+
+nav a {
+  color: rgb(85, 4, 4);
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+nav a:hover {
+  color: #6a5acd;
+}
