@@ -7,7 +7,7 @@ body {
 
 /* Header styling */
 header {
-  background-image: url("banner.jpg"); background-repeat:no-repeat ;
+  background-image: url("banner.jpg"); background-repeat:repeat ;
   color: rgba(151, 176, 208, 0.899);
   padding: 60px;
 }
